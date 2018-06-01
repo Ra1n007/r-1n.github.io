@@ -1,0 +1,13 @@
+Package: <package>
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: R@1n <R@1n@gmail.com>
+Filename: debs//<deb>
+Size: 19682
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Tweaks
+Description: A Test Tweak for my repo
+Author: R@1n <R@1n@gmail.com>
+Name: TestTweak

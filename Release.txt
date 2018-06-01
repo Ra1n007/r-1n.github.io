@@ -1,0 +1,8 @@
+Origin: R@1n's Private Repo
+Label: R@1n's Repo
+Suite: Testing
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: R@1n's Repo
